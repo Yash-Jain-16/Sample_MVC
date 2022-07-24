@@ -8569,11 +8569,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\LTI_C#_Consoleapp\\MVC_APP_EF_DB_First\\MVC_APP_EF_DB_First.csproj",
+      "projectUniqueName": "E:\\LTI_C#_Consoleapp\\MVC_APP_EF_DB_First\\MVC_APP_EF_DB_First.csproj",
       "projectName": "MVC_APP_EF_DB_First",
-      "projectPath": "C:\\Users\\hp\\Desktop\\LTI_C#_Consoleapp\\MVC_APP_EF_DB_First\\MVC_APP_EF_DB_First.csproj",
+      "projectPath": "E:\\LTI_C#_Consoleapp\\MVC_APP_EF_DB_First\\MVC_APP_EF_DB_First.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\LTI_C#_Consoleapp\\MVC_APP_EF_DB_First\\obj\\",
+      "outputPath": "E:\\LTI_C#_Consoleapp\\MVC_APP_EF_DB_First\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
